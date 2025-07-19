@@ -42,9 +42,6 @@ To design and implement an intelligent DAG visualization system that allows user
 
 📥 Download all project files from this Drive link:  
 **[[👉 Click here](https://drive.google.com/your-drive-link-here)](https://drive.google.com/file/d/1UGk-VbcCcMGVk5WIVY24ZLDGHovjW5wa/view?usp=sharing)**  
-*(Replace with your actual Google Drive share link)*
-
----
 
 
 
